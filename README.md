@@ -4,7 +4,8 @@
         "commnad":"uvx",
         "args":[
             "--from",
-            "git+https://github.com/adit199807/mcp-remote-server.git"
+            "git+https://github.com/adit199807/mcp-remote-server.git",
+            "remote-mcp-server"
         ]
     }
 }
