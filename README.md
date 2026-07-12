@@ -1,0 +1,11 @@
+```JSON
+"McpServer":{
+    "remot-server":{
+        "commnad":"uvx",
+        "args":[
+            "--from",
+            "git+https://github.com/adit199807/mcp-remote-server.git"
+        ]
+    }
+}
+```
